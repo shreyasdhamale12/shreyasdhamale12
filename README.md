@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Shreyas Rajendra Dhamale
 
-📧 **Email:** shreyasdhamale5@gmail.com  
 🔗 **GitHub:** [github.com/shreyasdhamale12](https://github.com/shreyasdhamale12)  
 🔗 **LinkedIn:** [linkedin.com/in/shreyasdhamale](https://linkedin.com/in/shreyasdhamale)  
 
