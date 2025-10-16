@@ -56,19 +56,12 @@ Developed an Android app for calculating income tax based on slabs.
 
 ---
 
-## 🎓 Education
-
-**MIT World Peace University, Pune**  
-*Master in Computer Applications – Management (Aug 2023 – May 2025)*  
-- Relevant Courses: Java, Python, DevOps, DBMS, OS, Networking  
-- Activities: Volunteering (R.I.D.E), Football  
- 
-
 ---
 
 ## 🏆 Certifications
 
-- **Introduction to Java** – Great Learning Academy (Jun 2024)  
+- **Software Testing Foundations** - Linkedin Learning (Aug 2025)
+- **Introduction to Java** – Great Learning Academy (Jun 2024)
 - **Certified Cyber Threat Researcher** – Virtual Cyber Labs (Jun 2021)  
 
 ---
