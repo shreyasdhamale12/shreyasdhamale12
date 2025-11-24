@@ -49,7 +49,7 @@ Developed an Android app for calculating income tax based on slabs.
 
 ## 🧪 Work Experience
 
-**Virtually Testing Foundation** – *Penetration Testing Intern*  
+**Virtually Testing Foundation** – *Testing Intern*  
 📅 Oct 2021 – Dec 2021  
 - Hands-on training with OWASP Top 10 and web app penetration testing  
 - Created detailed vulnerability and remediation reports  
