@@ -34,7 +34,7 @@ Built a secure RESTful API to create and schedule encrypted time capsules with a
 
 ---
 
-### 🚕 [TezzCommute – Cab Booking App](#) *(Mar 2025 – Ongoing)*  
+### 🚕 [TezzCommute – Cab Booking App](#) *(May 2025)*  
 Secure cab booking system with OTP-based captain confirmations and live location tracking.  
 - JWT & bcrypt for security, Google Maps API for real-time navigation  
 **Tech Stack:** Node.js | Express.js | MongoDB | Google Maps API  
